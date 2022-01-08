@@ -1,0 +1,86 @@
+pygamekey	Description
+K_BACKSPACE	backspace
+K_TAB	tab
+K_CLEAR	clear
+K_RETURN	return
+K_PAUSE	pause
+K_ESCAPE	escape
+K_SPACE	space
+K_EXCLAIM	exclaim
+K_HASH	hash
+K_QUOTEDBL	quotedbl
+K_DOLLAR	dollar
+K_AMPERSAND	ampersand
+K_QUOTE	quote
+K_LEFTPAREN	left parenthesis
+K_RIGHTPAREN	right parenthesis
+K_ASTERISK	asterisk
+K_PLUS	plus sign
+K_COMMA	comma
+K_MINUS	 minus sign
+K_PERIOD 	period
+K_SLASH	forward slash
+K_0 	0
+K_1	1
+K_2	2
+K_3	3
+K_4	4
+K_5	5
+K_6	6
+K_7	7
+K_8	8
+K_9	9
+K_COLON	colon
+K_SEMICOLON	semicolon
+K_LESS	less-than sign
+K_EQUALS	equals sign
+K_GREATER	greater-than sign
+K_QUESTION 	question mark
+K_AT	at
+K_LEFTBRACKET	left bracket
+K_BACKSLASH 	backslash
+K_RIGHTBRACKET  	right bracket
+K_CARET	caret
+K_UNDERSCORE	underscore
+K_BACKQUOTE	grave
+K_a,b,c…….z	A to Z Alphabet
+K_DELETE	delete
+K_KP0, K_KP1, K_KP2….K_KP9	keypad 0 to 9
+K_KP_PERIOD	keypad period
+K_KP_DIVIDE	keypad divide
+K_KP_MULTIPLY	keypad multiply
+K_KP_MINUS	keypad minus
+K_KP_PLUS  	keypad plus
+K_KP_ENTER	keypad enter
+K_KP_EQUALS	keypad equals
+K_UP	up arrow
+K_DOWN	down arrow
+K_RIGHT 	right arrow
+K_LEFT  	Left arrow
+K_INSERT	Insert
+K_HOME	Home
+K_END	End
+K_PAGEUP 	Page Up
+K_PAGEDOWN  	Page Down
+K_F1, K_F2, K_F3……K_F15	F1 to F15
+K_NUMLOCK	Numlock
+K_CAPSLOCK	Capsloack
+K_SCROLLOCK	Scrollock
+K_RSHIFT	Right shift
+K_LSHIFT	Left shift
+K_RCTRL	right control
+K_LCTRL	Left control
+K_RALT 	Right alt
+K_LALT 	Left alt
+K_RMETA	right meta
+K_LMETA 	left meta
+K_LSUPER	left Windows key
+K_RSUPER 	right Windows key
+K_MODE	mode shift
+K_HELP	Help
+K_PRINT	Print Screen
+K_SYSREQ	sysrq
+K_BREAK	Break
+K_MENU	Menu
+K_POWER	Power
+K_EURO	Euro
